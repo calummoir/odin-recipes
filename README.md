@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first project using The Odin Project, in this project i will make a recipe website 
